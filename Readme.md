@@ -83,3 +83,15 @@ The resulting artifacts of this work should have no assumptions on resources tha
 
 I am currently still evaluating the data sources and building visualizations for my analysis. Currently all work is
 done in the `notebooks` folder.
+
+## Additional Data Sources
+
+- [General Location of European Offshore Windfarms](https://emodnet.ec.europa.eu/en/map-week-%E2%80%93-locations-wind-farms)
+- [General Location of European Offshore Windfarms](https://windeurope.org/intelligence-platform/product/european-offshore-wind-farms-map-public/)
+- [Location of UK Wind Farms](https://www.researchgate.net/publication/281539469_Wind_energy_UK_experiences_and_offshore_operational_challenges)
+- [Location of Italian Wind Farms](https://www.thewindpower.net/country_maps_en_7_italy.php)
+- [Location of Irish Wind Farms](https://en.wikipedia.org/wiki/Wind_power_in_Ireland)
+- [Location of Spanish Wind Farms](https://amezet.carto.com/builder/fd430f8c-41cb-11e7-876d-0ecd1babdde5/embed?state=%7B%22map%22%3A%7B%22ne%22%3A%5B32.13840869677251%2C-21.511230468750004%5D%2C%22sw%22%3A%5B44.41808794374849%2C9.602050781250002%5D%2C%22center%22%3A%5B38.539147307079915%2C-5.954589843750001%5D%2C%22zoom%22%3A6%7D%7D)
+- [Location of French Wind Farms](https://amezet.carto.com/builder/d660a449-dd27-40c7-9523-9cba9186b3f8/embed?state=%7B%22map%22%3A%7B%22ne%22%3A%5B48.18916212024759%2C2.4763186275959015%5D%2C%22sw%22%3A%5B49.48168759522947%2C6.365478783845902%5D%2C%22center%22%3A%5B48.83959379358275%2C4.420898705720902%5D%2C%22zoom%22%3A9%7D%7D)
+- [Location of German Wind Farms](https://en.wikipedia.org/wiki/Wind_power_in_Germany)
+
