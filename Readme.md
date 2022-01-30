@@ -94,4 +94,6 @@ done in the `notebooks` folder.
 - [Location of Spanish Wind Farms](https://amezet.carto.com/builder/fd430f8c-41cb-11e7-876d-0ecd1babdde5/embed?state=%7B%22map%22%3A%7B%22ne%22%3A%5B32.13840869677251%2C-21.511230468750004%5D%2C%22sw%22%3A%5B44.41808794374849%2C9.602050781250002%5D%2C%22center%22%3A%5B38.539147307079915%2C-5.954589843750001%5D%2C%22zoom%22%3A6%7D%7D)
 - [Location of French Wind Farms](https://amezet.carto.com/builder/d660a449-dd27-40c7-9523-9cba9186b3f8/embed?state=%7B%22map%22%3A%7B%22ne%22%3A%5B48.18916212024759%2C2.4763186275959015%5D%2C%22sw%22%3A%5B49.48168759522947%2C6.365478783845902%5D%2C%22center%22%3A%5B48.83959379358275%2C4.420898705720902%5D%2C%22zoom%22%3A9%7D%7D)
 - [Location of German Wind Farms](https://en.wikipedia.org/wiki/Wind_power_in_Germany)
-
+- [Exchange Rates](https://sdw.ecb.europa.eu/)
+- [Natural Gas Future Prices](https://data.nasdaq.com/data/ODA/PNGASEU_USD-natural-gas-netherlands-ttf-natural-gas-forward-day-ahead-us-per-million-metric-british-thermal-unit)
+- [Natural Gas Future Prices](https://www.statista.com/statistics/1267202/weekly-dutch-ttf-gas-futures)
