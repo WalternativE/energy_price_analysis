@@ -97,3 +97,5 @@ done in the `notebooks` folder.
 - [Exchange Rates](https://sdw.ecb.europa.eu/)
 - [Natural Gas Future Prices](https://data.nasdaq.com/data/ODA/PNGASEU_USD-natural-gas-netherlands-ttf-natural-gas-forward-day-ahead-us-per-million-metric-british-thermal-unit)
 - [Natural Gas Future Prices](https://www.statista.com/statistics/1267202/weekly-dutch-ttf-gas-futures)
+- [Coal Future Prices](https://www.marketwatch.com/investing/future/atw00)
+- [Crude Oil Prices](https://fred.stlouisfed.org/series/MCOILBRENTEU)
