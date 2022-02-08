@@ -153,3 +153,6 @@ cython_debug/
 
 # we don't share secrets with GitHub
 .env
+
+# local dask workspaces shouldn't be in the repo
+dask-worker-space/
